@@ -2,9 +2,11 @@
   "name": "rails-6-1-3-webpacker-initial-setup",
   "private": true,
   "dependencies": {
+    "@babel/preset-typescript": "^7.13.0",
     "@rails/actioncable": "^6.0.0",
     "@rails/ujs": "^6.0.0",
-    "@rails/webpacker": "5.2.1"
+    "@rails/webpacker": "5.2.1",
+    "typescript": "^4.2.3"
   },
   "version": "0.1.0",
   "devDependencies": {
